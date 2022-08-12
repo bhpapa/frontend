@@ -1,0 +1,48 @@
+{
+  "name": "mysecondprogram",
+  "version": "0.1.0",
+  "private": true,
+  "main": "webpack.config.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.4.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.17.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "css-loader": "^6.5.1",
+    "csv-loader": "^3.0.3",
+    "eslint": "^7.5.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "file-loader": "^6.2.0",
+    "less": "^4.1.2",
+    "less-loader": "^5.0.0",
+    "mockjs": "^1.1.0",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.1",
+    "xml-loader": "^1.2.1"
+  }
+}
